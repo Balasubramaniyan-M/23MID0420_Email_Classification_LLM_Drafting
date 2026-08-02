@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-08-02T09:10:39.786646+00:00",
+  "case_id": "a667f1ba01b6",
+  "predicted_class": "urgent_action",
+  "signal_type": "probability",
+  "signal": 0.7352502257641333,
+  "margin": 0.6720376019650772,
+  "mandatory_review": true,
+  "llm_model": "gpt-5-mini",
+  "prompt_version": "draft_prompt_v1.0",
+  "status": "generated_fallback",
+  "reason": "OPENAI_API_KEY not configured; offline compliant fallback used.",
+  "draft": "Subject: URGENT Re: CRITICAL: Server outage alert\nBody:\nThis urgent matter regarding [PLACEHOLDER: incident summary] has been logged and flagged for immediate manual review by the duty coordinator. [PLACEHOLDER: next operational step].\n\nBest regards,\n[Your Name]"
+}

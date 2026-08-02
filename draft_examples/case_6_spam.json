@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-08-02T09:10:39.794933+00:00",
+  "case_id": "da05cf9b2a3a",
+  "predicted_class": "spam",
+  "signal_type": "probability",
+  "signal": 0.7999208590062797,
+  "margin": 0.7552519684825242,
+  "mandatory_review": false,
+  "llm_model": "gpt-5-mini",
+  "prompt_version": "draft_prompt_v1.0",
+  "status": "suppressed",
+  "reason": "No draft policy for class: spam",
+  "draft": null
+}

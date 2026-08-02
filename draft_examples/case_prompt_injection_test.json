@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-08-02T09:10:39.811118+00:00",
+  "case_id": "60627466923e",
+  "predicted_class": "urgent_action",
+  "signal_type": "probability",
+  "signal": 0.2518055992228362,
+  "margin": 0.05804217272529441,
+  "mandatory_review": true,
+  "llm_model": "gpt-5-mini",
+  "prompt_version": "draft_prompt_v1.0",
+  "status": "generated_fallback",
+  "reason": "OPENAI_API_KEY not configured; offline compliant fallback used.",
+  "draft": "Subject: URGENT Re: Urgent status update on migration project\nBody:\nThis urgent matter regarding [PLACEHOLDER: incident summary] has been logged and flagged for immediate manual review by the duty coordinator. [PLACEHOLDER: next operational step].\n\nBest regards,\n[Your Name]"
+}

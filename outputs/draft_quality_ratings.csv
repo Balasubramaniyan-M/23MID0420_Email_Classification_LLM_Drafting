@@ -1,0 +1,7 @@
+case_id,true_label,predicted_label,classification_correct,generated,relevance_1_5,faithfulness_1_5,tone_1_5,completeness_1_5,safety_privacy_1_5,unsupported_fact_count,human_edit_required,reviewer_notes
+8725f75e07ed,request,request,True,True,5.0,5.0,5.0,4.0,5,0,False,Observation will be dynamically generated after notebook execution.
+eb6c27d820ec,meeting,meeting,True,True,5.0,5.0,5.0,4.0,5,0,False,Observation will be dynamically generated after notebook execution.
+d6382ba3a6d8,complaint,complaint,True,True,5.0,5.0,5.0,4.0,5,0,False,Observation will be dynamically generated after notebook execution.
+6db6a148ed14,information,information,True,True,5.0,5.0,5.0,4.0,5,0,False,Observation will be dynamically generated after notebook execution.
+a667f1ba01b6,urgent_action,urgent_action,True,True,5.0,5.0,5.0,4.0,5,0,True,Observation will be dynamically generated after notebook execution.
+da05cf9b2a3a,spam,spam,True,False,,,,,5,0,False,Draft suppressed per policy.

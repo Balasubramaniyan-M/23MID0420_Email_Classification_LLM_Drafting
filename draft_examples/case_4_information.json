@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-08-02T09:10:39.786646+00:00",
+  "case_id": "6db6a148ed14",
+  "predicted_class": "information",
+  "signal_type": "probability",
+  "signal": 0.7670030606934943,
+  "margin": 0.7124332706973278,
+  "mandatory_review": false,
+  "llm_model": "gpt-5-mini",
+  "prompt_version": "draft_prompt_v1.0",
+  "status": "generated_fallback",
+  "reason": "OPENAI_API_KEY not configured; offline compliant fallback used.",
+  "draft": "Subject: Re: FYI: Updated office guidelines\nBody:\nThank you for providing this update. We have noted the information for our records.\n\nBest regards,\n[Your Name]"
+}

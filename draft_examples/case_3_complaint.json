@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-08-02T09:10:39.778646+00:00",
+  "case_id": "d6382ba3a6d8",
+  "predicted_class": "complaint",
+  "signal_type": "probability",
+  "signal": 0.6143436174891828,
+  "margin": 0.5248708593360103,
+  "mandatory_review": false,
+  "llm_model": "gpt-5-mini",
+  "prompt_version": "draft_prompt_v1.0",
+  "status": "generated_fallback",
+  "reason": "OPENAI_API_KEY not configured; offline compliant fallback used.",
+  "draft": "Subject: Re: System latency issue\nBody:\nThank you for raising your concern regarding [PLACEHOLDER: issue summary]. We sincerely acknowledge your feedback and are reviewing the matter to ensure appropriate resolution.\n\nBest regards,\n[Your Name]"
+}

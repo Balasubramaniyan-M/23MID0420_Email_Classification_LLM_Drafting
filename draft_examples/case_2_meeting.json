@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-08-02T09:10:39.770648+00:00",
+  "case_id": "eb6c27d820ec",
+  "predicted_class": "meeting",
+  "signal_type": "probability",
+  "signal": 0.5942715026198322,
+  "margin": 0.4867709556118059,
+  "mandatory_review": false,
+  "llm_model": "gpt-5-mini",
+  "prompt_version": "draft_prompt_v1.0",
+  "status": "generated_fallback",
+  "reason": "OPENAI_API_KEY not configured; offline compliant fallback used.",
+  "draft": "Subject: Re: Schedule project sync\nBody:\nThank you for the meeting request. Please confirm if [PLACEHOLDER: date and time] works for your schedule, or suggest alternative availability.\n\nBest regards,\n[Your Name]"
+}
