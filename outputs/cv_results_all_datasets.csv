@@ -1,0 +1,11 @@
+dataset_id,model,accuracy_mean,accuracy_sd,macro_f1_mean,macro_f1_sd,weighted_f1_mean,weighted_f1_sd
+business_intent,multinomial_nb,1.0,0.0,1.0,0.0,1.0,0.0
+business_intent,complement_nb,1.0,0.0,1.0,0.0,1.0,0.0
+business_intent,logistic_regression,1.0,0.0,1.0,0.0,1.0,0.0
+business_intent,linear_svc,1.0,0.0,1.0,0.0,1.0,0.0
+business_intent,dummy_majority,0.15626134301270417,0.001333660477014428,0.04504748982360922,0.0003323595309068069,0.04223774708375298,0.0006731637685880177
+enron_spam,multinomial_nb,1.0,0.0,1.0,0.0,1.0,0.0
+enron_spam,complement_nb,1.0,0.0,1.0,0.0,1.0,0.0
+enron_spam,logistic_regression,1.0,0.0,1.0,0.0,1.0,0.0
+enron_spam,linear_svc,1.0,0.0,1.0,0.0,1.0,0.0
+enron_spam,dummy_majority,0.49215686274509807,0.003921568627450988,0.3298245614035088,0.001754385964912264,0.32466460268317854,0.004334365325077382
