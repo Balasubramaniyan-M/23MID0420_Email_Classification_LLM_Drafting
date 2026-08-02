@@ -1,0 +1,28 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment & API Keys
+.env
+.env.*
+
+# Output model artifacts & real-content cautions
+outputs/models/*.joblib
+outputs/drafts/*.json
+!outputs/drafts/.gitkeep
+!outputs/models/.gitkeep
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
