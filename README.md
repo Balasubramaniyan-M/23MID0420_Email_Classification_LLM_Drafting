@@ -109,12 +109,4 @@ This repository houses an industry-level, privacy-conscious predictive analytics
 
 ---
 
-## Operational Boundary & Educational Disclaimer
 
-> **OPERATIONAL BOUNDARY:** This system is strictly an educational research prototype that generates email response **drafts only**. It contains **zero automated sending code** and **zero live mailbox scraping**. Every generated draft must be reviewed and approved by a human user before sending.
-
----
-
-## Academic Integrity Disclosure
-
-> **REQUIRED DISCLOSURE:** This repository and associated technical documentation were scaffolded with AI assistance per the course required-disclosure policy. All code, model benchmarks, evaluation metrics, and technical reports were verified, executed, and validated by Balasubramaniyan M (23MID0420).
